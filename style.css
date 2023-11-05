@@ -17,7 +17,7 @@ header{
 }
 
 header h1{
-    color: rgb(187, 17, 17);
+    color: rgb(17, 187, 93);
     padding-top: 10px;
     text-decoration: none;
     font-weight: bold;
@@ -68,8 +68,27 @@ header h1{
     margin-left: 20px;
 }
 
+.pro p{
+    width: 200px;
+    text-align: center;
+    margin-left: 32px;
+}
+
 .content{
     width: 400px;
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 250px;
+    padding-bottom: 200px;
+}
+
+.content h2{
+    color: aliceblue;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.ski{
+    color: aqua;
+    padding-top: 100px;
+    margin-left: 300px;
 }
